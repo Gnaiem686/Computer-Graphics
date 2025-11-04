@@ -2,7 +2,8 @@
 
 A real‑time, interactive **3×3 Rubik’s Cube** implemented with modern OpenGL. It supports per‑face coloring, smooth scene rotation/translation with the mouse, and layer rotations via keyboard (R/L/U/D/F/B) with adjustable step angle and direction.
 
-> **Demo**: *(Add a GIF/screenshot here)*
+> **Demo**: ![Uploading rubiks-cube-gif.gif…]()
+
 
 ---
 
